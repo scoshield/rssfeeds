@@ -11,15 +11,15 @@
 
 Laravel is a web application framework with expressive, elegant syntax. In this application, we use the Laravel RSS Feeds to create a custom RSS View Page using the Tailwind CSS.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+<!-- - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting). -->
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<!-- Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
 
@@ -57,7 +57,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed. -->
 
 ## License
 
