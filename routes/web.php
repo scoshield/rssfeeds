@@ -15,7 +15,7 @@ use App\Http\Controllers\FeedsController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/podcasts');
 });
 
 Route::get('/podcasts', [FeedsController::class, 'index']);

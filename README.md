@@ -18,6 +18,14 @@ Laravel is a web application framework with expressive, elegant syntax. In this 
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting). -->
+**Steps to Run**
+Take the following steps to configure your podcast RSS source. 
+```
+1. Open the app/FeedsControler.php file
+2. Change the line $f = FeedReader::read(URL), the URL being your RSS feeds source.
+3. run php artisan serve
+
+```
 
 <!-- Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
